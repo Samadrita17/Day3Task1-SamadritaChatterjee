@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://images.assetsdelivery.com/compings_v2/tartila/tartila1903/tartila190300099.jpg");
+    background-position:"center";
+    background-size:"cover";
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align:center;
+    color:white;
+}
+
+h4{font-size: 47px;}
+#in{font-size:40px ;}
+#but{font-size:40px;}
+#out{font-size: 35px;}
+
+
